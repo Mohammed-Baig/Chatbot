@@ -1,4 +1,5 @@
 # Chatbot
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Oauo2m8-M0yCp0vSUKkCdAzKqw21R-3T?usp=sharing)
 
 ## Summary
 This project is something that I have wanted to work on for a while. AI and Chatbots companions/assistants are a huge staple of sci-fi media, and I've always wanted to try my hand at making one of my own. Especially right now during the "AI" gold rush as resources and 
